@@ -1,0 +1,125 @@
+[{
+    "nameOfChildElement": "RAIPUR",
+    "lgdCodeOfChildElement": "LGD_T_3332",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "2289119"
+    }]
+  },
+  {
+    "nameOfChildElement": "ARANG",
+    "lgdCodeOfChildElement": "LGD_T_3330",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "333178"
+    }]
+  },
+  {
+    "nameOfChildElement": "BALODA BAZAR",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "292039"
+    }]
+  },
+  {
+    "nameOfChildElement": "ABHANPUR",
+    "lgdCodeOfChildElement": "LGD_T_3331",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "283738"
+    }]
+  },
+  {
+    "nameOfChildElement": "BHATAPARA",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "265511"
+    }]
+  },
+  {
+    "nameOfChildElement": "TILDA",
+    "lgdCodeOfChildElement": "LGD_T_3334",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "259880"
+    }]
+  },
+  {
+    "nameOfChildElement": "BILAIGARH",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "256206"
+    }]
+  },
+  {
+    "nameOfChildElement": "KASDOL",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "252048"
+    }]
+  },
+  {
+    "nameOfChildElement": "SIMGA",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "221093"
+    }]
+  },
+  {
+    "nameOfChildElement": "PALARI",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "200401"
+    }]
+  },
+  {
+    "nameOfChildElement": "RAJIM",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "190778"
+    }]
+  },
+  {
+    "nameOfChildElement": "MAINPUR",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "122153"
+    }]
+  },
+  {
+    "nameOfChildElement": "CHHURA",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "121219"
+    }]
+  },
+  {
+    "nameOfChildElement": "BINDRANAWAGARH",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "104617"
+    }]
+  },
+  {
+    "nameOfChildElement": "DEOBHOG",
+    "nameOfParent": "RAIPUR",
+    "data": [{
+      "name": "POP",
+      "value": "89727"
+    }]
+  }
+]
